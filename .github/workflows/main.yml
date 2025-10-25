@@ -1,0 +1,7 @@
+name: first workflow for github action
+
+on: push
+
+jobs: 
+  example-jobs:
+    runs-on: ubuntu-latest
